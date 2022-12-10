@@ -34,6 +34,7 @@ Ignite feed é um projeto que simula o feed das redes sociais, com funcionalidad
 <h2 id="technologies"> 🛠 Tecnologias utilizadas: </h2>
 
 - [ReactJS](https://reactjs.org)
+- [Typescsript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com) or Npm
 - [Git Bash](https://gitforwindows.org/)
