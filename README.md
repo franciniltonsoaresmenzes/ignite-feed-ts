@@ -1,3 +1,6 @@
+<p align="center" >
+<img src="src/assets/ignite-logo.svg" alt="last-commit" >
+</p>
 <h1 align="center">
     Ignite Feed
 </h1>
@@ -22,6 +25,9 @@
 
 </div>
 
+<h2 align="center"> Aplicação Rocketseat Ignite Feed 💻 🚀 </h2>
+
+
 <h2>📷 Preview </h2>
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
@@ -34,7 +40,6 @@ Ignite feed é um projeto que simula o feed das redes sociais, com funcionalidad
 <h2 id="technologies"> 🛠 Tecnologias utilizadas: </h2>
 
 - [ReactJS](https://reactjs.org)
-- [Typescsript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com) or Npm
 - [Git Bash](https://gitforwindows.org/)
@@ -51,12 +56,6 @@ $ cd https://github.com/franciniltonsoaresmenzes/ignite-feed.git
 # Install Dependencies
 
 $ npm install
-
-# updated file .example.env to your variables graphcms
-
-# rename file .example.env to .env.local
-
-# Run Aplication
 
 $ npm run dev
 
